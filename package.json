@@ -1,0 +1,16 @@
+{
+  "name": "learn-spa",
+  "version": "0.0.1",
+  "description": "Manning Publications Book on SPA",
+  "keywords": [
+    "SPA",
+    "JavaScript",
+    "Web Applications"
+  ],
+  "license": "MIT",
+  "author": "George Bockari <bitwhys@cr8iv.io",
+  "scripts": {},
+  "dependencies": {
+    "prettier": "^2.8.1"
+  }
+}
